@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Embedded Systems & VLSI**
 
-- 🌱 I’m currently learning **Digital Signal Processing**
+- 🌱 I’m currently learning **VLSI & other programming languages**
 
-- 👯 I’m looking to collaborate on **Signal Processing**
+- 👯 I’m looking to collaborate on **Embedded systems & VLSI**
 
 - 📫 How to reach me **spoorthiramesh06@gmail.com**
 
